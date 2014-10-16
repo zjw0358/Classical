@@ -252,4 +252,7 @@
 20141010	android项目(DB)
 20141011	android项目(Network)
 
-20141013	android项目(Network)
+20141013	android项目(Network + thread + service)
+20141014	android项目(Network + thread + service)
+20141015	android项目(Network + thread + service)
+20141016	android项目(核心业务完善)
