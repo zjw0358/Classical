@@ -256,3 +256,21 @@
 20141014	android项目(Network + thread + service)
 20141015	android项目(Network + thread + service)
 20141016	android项目(核心业务完善)
+20141017	android项目(小项完善)
+
+20141020	android项目(远程升级)
+20141021	android项目(远程升级)
+20141022	working + Android项目(串口通信)
+20141023	重新配置工作虚拟机
+20141024	杂
+20141025	android官网资料学习 + android项目(优化service和thread)
+
+20141027	android官网资料学习
+20141028	android官网资料学习(NDK)
+20141029	android官网资料学习(NDK)
+20141030	android官网资料学习(NFC)
+20141031	android项目(add硬件查询等优化)
+
+20141103	working
+20141104	working
+20141105	working + <史记*春申君列传>
