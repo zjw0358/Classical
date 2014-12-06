@@ -283,3 +283,5 @@
 20141112	android项目(UserManager DB and UI)
 20141113	学习自闭症课程 
 20141114	Basicom最后一天
+
+20141204	<中医基础理论>
