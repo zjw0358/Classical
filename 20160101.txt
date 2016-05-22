@@ -111,4 +111,12 @@
 20160512	working + 易杂
 20160513	working + 易杂 + LFS
 20160514	working + 易杂
-20160115	休息
+20160515	休息
+
+20160516	working + 医杂 + LFS + aircrack
+20160517	working + LFS
+20160518	working + 医杂
+20160519	working + 医杂
+20160520	working + 医杂
+20160521	working + 医杂
+20160522	休息
